@@ -3,7 +3,6 @@
 const texto = [
 "Desenvolvedora Front-End",
 "Estudante de Sistemas para Internet",
-"Criadora do projeto Raízes do Sertão"
 ];
 
 let contador = 0;
