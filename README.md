@@ -27,7 +27,7 @@ script.js           # JavaScript para interatividade
 
 ## 📱 Seções
 
-1. **Hero**: Apresentação pessoal com foto e links sociais
+1. **Hero**: Apresentação pessoal com links sociais
 2. **Sobre**: Informações pessoais e habilidades
 3. **Projetos**: Showcase dos trabalhos desenvolvidos
 4. **Contato**: Informações para contato
