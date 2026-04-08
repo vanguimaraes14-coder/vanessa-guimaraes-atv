@@ -47,11 +47,6 @@ padding:80px;
 flex-wrap:wrap;
 }
 
-.hero img{
-width:300px;
-border-radius:20px;
-box-shadow:0 10px 40px rgba(0,0,0,0.6);
-}
 
 .hero h2{
 font-size:40px;
