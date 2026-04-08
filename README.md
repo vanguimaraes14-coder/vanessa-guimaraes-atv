@@ -1,4 +1,4 @@
-# Portfólio de Vanessa Guimarães
+# Portfólio de Vanessa Guimarães **
 
 Portfólio pessoal desenvolvido em HTML, CSS e JavaScript para apresentar meus trabalhos como desenvolvedora front-end.
 
@@ -11,10 +11,10 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript para apresentar meus t
 ## 📁 Estrutura do Projeto
 
 ```
-portfolio/
+** portfolio **
 index.html          # Página principal
- style.css           # Estilos CSS
- script.js           # JavaScript para interatividade
+style.css           # Estilos CSS
+script.js           # JavaScript para interatividade
  
 ```
 
