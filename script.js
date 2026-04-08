@@ -56,12 +56,6 @@ digitar();
 // Projetos
 const projetos = [
     {
-        titulo: "Raízes do Sertão",
-        descricao: "Projeto web voltado para a valorização da cultura regional do sertão, promovendo tradições e histórias locais através de uma plataforma interativa.",
-        link: "#",
-        tecnologias: ["HTML", "CSS", "JavaScript"]
-    },
-    {
         titulo: "Portfólio Pessoal",
         descricao: "Este portfólio desenvolvido em HTML, CSS e JavaScript para apresentar meus trabalhos, habilidades e trajetória profissional.",
         link: "#",
