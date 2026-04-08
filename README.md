@@ -12,11 +12,10 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript para apresentar meus t
 
 ```
 portfolio/
-├── index.html          # Página principal
-├── style.css           # Estilos CSS
-├── script.js           # JavaScript para interatividade
-└── img/
-    └── vanessa.jpg     # Foto pessoal
+index.html          # Página principal
+ style.css           # Estilos CSS
+ script.js           # JavaScript para interatividade
+ 
 ```
 
 ## 🎯 Funcionalidades
