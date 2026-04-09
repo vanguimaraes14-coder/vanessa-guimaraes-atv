@@ -11,10 +11,12 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript para apresentar meus t
 ## 📁 Estrutura do Projeto
 
 ```
-** portfolio **
-index.html          # Página principal
-style.css           # Estilos CSS
-script.js           # JavaScript para interatividade
+vanessa-guimaraes-atv
+│
+├── index.html
+├── style.css
+└── images
+     └── foto.jpg
  
 ```
 
