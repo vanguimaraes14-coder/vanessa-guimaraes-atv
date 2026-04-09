@@ -16,7 +16,7 @@ vanessa-guimaraes-atv
 ├── index.html
 ├── style.css
 └── images
-     └── foto.jpg
+     └── imagesfoto.jpg.jpg
  
 ```
 
