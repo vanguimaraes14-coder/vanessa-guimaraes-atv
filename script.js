@@ -56,7 +56,7 @@ digitar();
 const projetos = [
     {
         titulo: "Portfólio Pessoal",
-        descricao: "Este portfólio desenvolvido em HTML, CSS e JavaScript para apresentar meus trabalhos, habilidades e trajetória profissional."
+        descricao: "Este portfólio desenvolvido em HTML, CSS e JavaScript para apresentar meus trabalhos, habilidades e trajetória profissional.",
         link: "#",
         tecnologias: ["HTML", "CSS", "JavaScript"]
     },
